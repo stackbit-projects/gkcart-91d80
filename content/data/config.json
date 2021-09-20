@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "favicon": "images/etsyicon.jpg",
     "logo_dark": "images/logo.svg",
-    "logo_light": "images/logosmall.png",
+    "logo_light": "images/logocs.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_primary_opacity": 60,
