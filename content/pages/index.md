@@ -16,6 +16,7 @@ sections:
         url: /store
         arrow: true
         style: primary
+    background_image: images/blown away grain.jpg
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
