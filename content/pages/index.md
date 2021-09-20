@@ -1,7 +1,7 @@
 ---
 layout: home
 title: GKC.art
-white_header: false
+white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
