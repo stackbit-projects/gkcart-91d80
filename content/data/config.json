@@ -4,7 +4,6 @@
     "favicon": "images/etsyicon.jpg",
     "logo_dark": "images/logohead.png",
     "logo_light": "images/logocs.png",
-    "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "/images/leaf-light-grey.svg",
