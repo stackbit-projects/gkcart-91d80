@@ -6,11 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image_opacity: 65
-    actions:
-      - title: See all items
-        url: /store
-        arrow: true
-        style: primary
+    actions: []
     background_image: images/blown away grain.jpg
   - type: featured_products_section
     section_id: best_sellers_section
