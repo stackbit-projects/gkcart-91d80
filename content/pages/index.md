@@ -22,6 +22,7 @@ sections:
 
       - dolor sit amet
     type: header_section
+    background_image: images/hero.jpg
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
