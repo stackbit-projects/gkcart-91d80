@@ -8,16 +8,6 @@ sections:
     background_image_opacity: 65
     actions: []
     background_image: images/hero.jpg
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    cta:
-      title: Discover
-      url: /store
-      style: secondary
-      arrow: true
   - section_id: lorem-ipsum
     address: lorem-ipsum
     phone: lorem-ipsum
