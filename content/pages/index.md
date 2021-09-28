@@ -9,12 +9,6 @@ sections:
     actions: []
     background_image: images/hero.jpg
   - section_id: lorem-ipsum
-    address: lorem-ipsum
-    phone: lorem-ipsum
-    email: lorem-ipsum
-    mapUrl: lorem-ipsum
-    type: contact_section
-  - section_id: lorem-ipsum
     bulletpoints: []
     type: bulletpoints_section
 seo:
