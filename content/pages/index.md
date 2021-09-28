@@ -3,11 +3,6 @@ layout: home
 title: GKC.art
 white_header: true
 sections:
-  - type: hero_section
-    section_id: hero_section
-    background_image_opacity: 65
-    actions: []
-    background_image: images/hero.jpg
   - section_id: lorem-ipsum
     headline: lorem-ipsum
     subtitle: >-
