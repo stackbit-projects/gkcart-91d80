@@ -8,9 +8,6 @@ sections:
     background_image_opacity: 65
     actions: []
     background_image: images/hero.jpg
-  - section_id: lorem-ipsum
-    bulletpoints: []
-    type: bulletpoints_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
