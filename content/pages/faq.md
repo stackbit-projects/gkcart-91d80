@@ -75,5 +75,5 @@ seo:
       value: FAQ
     - name: 'twitter:description'
       value: This is the faq page
-white_header: true
+white_header: false
 ---
