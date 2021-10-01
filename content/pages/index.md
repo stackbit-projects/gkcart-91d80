@@ -18,7 +18,6 @@ sections:
       - dolor sit amet
     actions: []
     type: hero_section
-    background_image: images/hero-1a83d157.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
