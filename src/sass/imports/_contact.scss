@@ -6,7 +6,7 @@
     }
 
     &:last-child {
-      background-color: rgba(0, 0, 0, 0);
+      background-color: $color;
       margin-bottom: 0;
     }
   }
