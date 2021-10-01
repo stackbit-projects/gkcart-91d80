@@ -59,7 +59,7 @@
 @each $palette in map-keys($theme_palettes) {
     .palette-#{$palette} {
         .hero {
-            background-color: map-deep-get($theme-palettes, $palette, "light");
+            background-color: map-deep-get($theme-palettes, $palette, "dark");
         }
     }
 }
