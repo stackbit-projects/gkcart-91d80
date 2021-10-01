@@ -18,6 +18,7 @@ sections:
       - dolor sit amet
     actions: []
     type: hero_section
+    background_image: images/hero-1a83d157.jpg
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
