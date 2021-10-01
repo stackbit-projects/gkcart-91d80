@@ -3,7 +3,7 @@ layout: home
 title: GKC.art
 white_header: true
 sections:
-  - section_id: home-
+  - section_id: home-top
     background_image_opacity: 0
     content: >-
       ## Lorem ipsum
