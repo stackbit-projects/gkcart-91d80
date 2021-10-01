@@ -19,6 +19,15 @@ sections:
     actions: []
     type: hero_section
     background_image: images/hero-1a83d157.jpg
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    cta:
+      title: lorem-ipsum
+      url: '#'
+      style: primary
+      arrow: false
+    type: promotion_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
